@@ -1,0 +1,12 @@
+$font-round: Varela Round;
+
+@mixin matte-finish-box {
+  background: hsla(0, 0%, 35%, 0.3);
+  backdrop-filter: blur(2px);
+}
+
+$primary-1: hsl(162, 30%, 22%);
+$primary-2: hsl(160, 35%, 32%);
+$primary-3: hsl(158, 28%, 46%);
+$primary-4: hsl(154, 35%, 78%);
+$primary-5: hsl(152, 35%, 89%);
